@@ -1,0 +1,8 @@
+single 35
+even 1
+odd 1
+red 1
+black 1
+contains 1
+line 2
+group 2
